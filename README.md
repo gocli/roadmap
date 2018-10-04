@@ -6,6 +6,7 @@
 - [ ] Add warning for incompatible versions
 - [ ] Add go to global scope for gofile.js
 - [ ] Execute loaders with `go load`
+- [ ] Add TypeScript definition files
 
 ## Go v3
 
